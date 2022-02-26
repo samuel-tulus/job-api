@@ -1,0 +1,6 @@
+.DS_Store
+.tmp
+.sass-
+package-lock.json
+node_modules
+*.env
